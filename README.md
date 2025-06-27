@@ -36,9 +36,9 @@ To provide supply chain stakeholders with a **visual, easy-to-navigate interface
 | **Bar & Pie Charts** | Clear data storytelling |
 | **Data Analysis** | Business insight generation |
 
-## 🖼️ Sample Visuals
+## 🖼️ Dashboard Visuals
 
-> *(Add screenshots of the dashboard here after uploading images to your GitHub repo)*
+>![Supply Chain Dashboard](dashboard.png)
 
 ## 📂 How to Use
 
